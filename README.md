@@ -1,2 +1,1 @@
-# Microsoft.ApplicationBlocks.Data.Core
-Microsoft.ApplicationBlocks.Data for .NET Core &amp; Standard
+This is an old Microsoft Application Data Blocks converted to suit .NET Core & .NET Standard.
